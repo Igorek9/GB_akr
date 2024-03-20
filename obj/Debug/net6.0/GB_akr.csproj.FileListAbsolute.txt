@@ -1,0 +1,15 @@
+C:\Users\StormPC\Desktop\GB_akr\bin\Debug\net6.0\GB_akr.exe
+C:\Users\StormPC\Desktop\GB_akr\bin\Debug\net6.0\GB_akr.deps.json
+C:\Users\StormPC\Desktop\GB_akr\bin\Debug\net6.0\GB_akr.runtimeconfig.json
+C:\Users\StormPC\Desktop\GB_akr\bin\Debug\net6.0\GB_akr.dll
+C:\Users\StormPC\Desktop\GB_akr\bin\Debug\net6.0\GB_akr.pdb
+C:\Users\StormPC\Desktop\GB_akr\obj\Debug\net6.0\GB_akr.csproj.AssemblyReference.cache
+C:\Users\StormPC\Desktop\GB_akr\obj\Debug\net6.0\GB_akr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\StormPC\Desktop\GB_akr\obj\Debug\net6.0\GB_akr.AssemblyInfoInputs.cache
+C:\Users\StormPC\Desktop\GB_akr\obj\Debug\net6.0\GB_akr.AssemblyInfo.cs
+C:\Users\StormPC\Desktop\GB_akr\obj\Debug\net6.0\GB_akr.csproj.CoreCompileInputs.cache
+C:\Users\StormPC\Desktop\GB_akr\obj\Debug\net6.0\GB_akr.dll
+C:\Users\StormPC\Desktop\GB_akr\obj\Debug\net6.0\refint\GB_akr.dll
+C:\Users\StormPC\Desktop\GB_akr\obj\Debug\net6.0\GB_akr.pdb
+C:\Users\StormPC\Desktop\GB_akr\obj\Debug\net6.0\GB_akr.genruntimeconfig.cache
+C:\Users\StormPC\Desktop\GB_akr\obj\Debug\net6.0\ref\GB_akr.dll
